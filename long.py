@@ -9,3 +9,6 @@ if c > d
  if d < c
  
  Print('d < b')
+
+ objective clear
+ 
